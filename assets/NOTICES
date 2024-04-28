@@ -1988,7 +1988,7 @@ SOFTWARE.
 bloc
 
 The MIT License (MIT)
-Copyright (c) 2018 Felix Angelov
+Copyright (c) 2024 Felix Angelov
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -7210,6 +7210,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 flutter_lints
+flutter_shaders
 path_provider
 path_provider_android
 path_provider_foundation
